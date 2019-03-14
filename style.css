@@ -1,0 +1,19 @@
+.u-content--top-offset-200 {
+  margin-top: -200px;
+}
+
+.bg-height--500 {
+  height: 300px;
+}
+
+.c-background {
+  background-color: rgba(10, 10, 10, .86);
+}
+
+.c-card__header--height {
+  height: 120px;
+}
+
+.c-avater {
+  padding: 6px;
+}
